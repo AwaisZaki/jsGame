@@ -1,0 +1,35 @@
+#head1{
+    text-align: center;
+    color: red;
+}
+#jum{
+    background-color: black;
+}
+#clickMe{
+
+width: 100px;
+height: 100px;
+background: salmon;
+border: 1px solid orangered;
+text-align: center;
+display: none;
+position: relative;
+top: 50px;
+left: 100px;
+}
+
+#gameBoard{
+
+background: yellowgreen;
+width: 800px;
+height: 600px;
+border: 1px solid orangered;
+
+}
+ 
+#scoreInfo{
+
+    text-align: center;
+    font-size: 24px;
+
+}
