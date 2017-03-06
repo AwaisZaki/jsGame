@@ -1,12 +1,11 @@
 # **Simple Game **
 
-
+Click on start button and an object is appear hit that object in short time
 
 
 Click below to play
 
-
-* [Game](https://gameinjs.firebaseapp.com/)
+[Game]( https://gameinjs-eb89b.firebaseapp.com)
 
 
 

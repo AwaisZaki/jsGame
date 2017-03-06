@@ -21,8 +21,8 @@ function myFunction(){
         setTimeout(function(){
         
         startTime = Date.now();
-        var top = Math.floor(Math.random()*500);
-        var left = Math.floor(Math.random()*550);
+        var top = Math.floor(Math.random()*380);
+        var left = Math.floor(Math.random()*900);
         console.log('top');
         clickMe.style.top = top+"px";
         clickMe.style.left=left+"px";

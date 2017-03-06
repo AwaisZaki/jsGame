@@ -1,0 +1,23 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\awais\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.4.0
+[debug] Platform:     win32
+[debug] Node Version: v6.9.5
+[debug] Time:         Mon Mar 06 2017 10:08:22 GMT+0500 (Pakistan Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/gameinjs-eb89b  
+ Mon Mar 06 2017 10:08:22 GMT+0500 (Pakistan Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/gameinjs-eb89b/tokens  
+ Mon Mar 06 2017 10:08:25 GMT+0500 (Pakistan Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'gameinjs-eb89b'...
+[info] 
+[info] i  deploying database, hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/gameinjs-eb89b/uploads/-KeX0DBuPPEHWnbXxHD_?fileCount=35&message=  
+ Mon Mar 06 2017 10:08:35 GMT+0500 (Pakistan Standard Time)

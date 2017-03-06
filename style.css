@@ -9,6 +9,7 @@
 
 width: 100px;
 height: 100px;
+border-radius: 100px;
 background: salmon;
 border: 1px solid orangered;
 text-align: center;
@@ -21,8 +22,8 @@ left: 100px;
 #gameBoard{
 
 background: yellowgreen;
-width: 800px;
-height: 600px;
+width: 1100px;
+height: 472px;
 border: 1px solid orangered;
 
 }
